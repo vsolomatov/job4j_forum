@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/.idea
+/out
+/job4j_forum.iml
+
+/job4j_forum/*.iml
+/job4j_forum/target
+
+/target
