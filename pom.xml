@@ -12,8 +12,8 @@
     </parent>
 
     <groupId>ru.job4j</groupId>
-    <artifactId>forum</artifactId>
-    <version>1</version>
+    <artifactId>job4j_forum</artifactId>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -104,6 +104,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.5.3</version>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
